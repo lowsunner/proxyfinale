@@ -3,9 +3,10 @@ const config = {
   users: {
     // You can add multiple users by doing username: 'password'.
     interstellar: "password",
-    Damian: "",
-    Jacob: "",
-    
+    damian: "21990",
+    jacob: "21990",
+    general: "capousd456"
+
   },
 };
 
